@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MetalUI",
+        "repositoryURL": "https://github.com/0xLeif/MetalUI",
+        "state": {
+          "branch": null,
+          "revision": "5d01607d9c7d0d025940158e83988d518cfa3e71",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
